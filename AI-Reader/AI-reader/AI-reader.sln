@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI-reader", "AI-reader.csproj", "{E20A4B87-D409-49D7-B24D-F840E83ED909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E20A4B87-D409-49D7-B24D-F840E83ED909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20A4B87-D409-49D7-B24D-F840E83ED909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20A4B87-D409-49D7-B24D-F840E83ED909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20A4B87-D409-49D7-B24D-F840E83ED909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E2BDE4F-F519-42C8-BE50-78ECB8FFE205}
+	EndGlobalSection
+EndGlobal

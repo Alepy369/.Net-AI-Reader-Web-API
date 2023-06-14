@@ -1,0 +1,8 @@
+C:\Users\duart\source\repos\.Net-AI-Reader-Web-API\AI-Reader\AI-reader_mvc\AI-reader_mvc\obj\Debug\net6.0\AI-reader_mvc.csproj.AssemblyReference.cache
+C:\Users\duart\source\repos\.Net-AI-Reader-Web-API\AI-Reader\AI-reader_mvc\AI-reader_mvc\obj\Debug\net6.0\AI-reader_mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duart\source\repos\.Net-AI-Reader-Web-API\AI-Reader\AI-reader_mvc\AI-reader_mvc\obj\Debug\net6.0\AI-reader_mvc.AssemblyInfoInputs.cache
+C:\Users\duart\source\repos\.Net-AI-Reader-Web-API\AI-Reader\AI-reader_mvc\AI-reader_mvc\obj\Debug\net6.0\AI-reader_mvc.AssemblyInfo.cs
+C:\Users\duart\source\repos\.Net-AI-Reader-Web-API\AI-Reader\AI-reader_mvc\AI-reader_mvc\obj\Debug\net6.0\AI-reader_mvc.csproj.CoreCompileInputs.cache
+C:\Users\duart\source\repos\.Net-AI-Reader-Web-API\AI-Reader\AI-reader_mvc\AI-reader_mvc\obj\Debug\net6.0\AI-reader_mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\duart\source\repos\.Net-AI-Reader-Web-API\AI-Reader\AI-reader_mvc\AI-reader_mvc\obj\Debug\net6.0\AI-reader_mvc.RazorAssemblyInfo.cache
+C:\Users\duart\source\repos\.Net-AI-Reader-Web-API\AI-Reader\AI-reader_mvc\AI-reader_mvc\obj\Debug\net6.0\AI-reader_mvc.RazorAssemblyInfo.cs
