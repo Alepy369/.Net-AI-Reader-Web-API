@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AI-reader_mvc.props" />
+</Project>
